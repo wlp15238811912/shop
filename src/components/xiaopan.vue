@@ -1,5 +1,7 @@
 <template>
-  <div class="pan">看到我了吗小攀儿？</div>
+  <div class="pan">看到我了吗小攀儿？
+    <span>看到了啊，笨蛋</span>
+  </div>
 </template>
 
 <script>
