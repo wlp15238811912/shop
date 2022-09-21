@@ -10,7 +10,8 @@ const router = new Router({
     { path: '/', redirect: '/login' },
     { path: '/login', component: Login },
     { path: '/home', component: Home },
-    { path: '/hello', component: Hello }
+    { path: '/hello', component: Hello },
+    { path: '/main', component: Main }
   ]
 })
 
